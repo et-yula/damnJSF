@@ -1,0 +1,9 @@
+html{
+    background-color: cyan;
+}
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 775px;
+}
